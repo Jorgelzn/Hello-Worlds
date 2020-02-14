@@ -1,5 +1,3 @@
 # hello-world
-first repository
-
-hi this is my first commit
+hello world in all possible languages (not only programming ones)
 
